@@ -17,13 +17,13 @@
 .list-style.circle-o li:before,
 .list-style li i,
 .list-style a.btn-link:hover{
-	color: #6dc234;
+	color: #fdd025;
 }
 .js .loading::after,
 .nav--open .nav__button-text::after,
 .nav--open .nav__button-text::before,
 .nav__chapter:after{
-	background: #6dc234;
+	background: #fdd025;
 }
 .nice-select .option:hover,
 .nice-select .option.selected:hover,
@@ -63,25 +63,25 @@
 figure.vimeo:hover a:after, figure.youtube:hover a:after,
 .ajax-form button:hover,
 mark{
-	background-color: #6dc234;
+	background-color: #fdd025;
 }
 .range-slider .input-range::-webkit-slider-thumb {
-	background: #6dc234;
+	background: #fdd025;
 }
 .range-slider .input-range::-webkit-slider-thumb:hover {
-	background: #6dc234;
+	background: #fdd025;
 }
 .range-slider .input-range:active::-webkit-slider-thumb {
-	background: #6dc234;
+	background: #fdd025;
 }
 .range-slider .input-range::-moz-range-thumb {
-	background: #6dc234;
+	background: #fdd025;
 }
 .range-slider .input-range::-moz-range-thumb:hover {
-	background: #6dc234;
+	background: #fdd025;
 }
 .range-slider .input-range:active::-moz-range-thumb {
-	background: #6dc234;
+	background: #fdd025;
 }
 .nice-select:active, 
 .nice-select.open, 
@@ -90,33 +90,33 @@ mark{
 #flight-datepicker-1 input:focus,
 #flight-datepicker-1 input:active,
 .checkbox:checked:before{
-	border-color: #6dc234;
+	border-color: #fdd025;
 }
 figure.vimeo a:before, figure.youtube a:before {
-	border-left: 8px solid #6dc234;
+	border-left: 8px solid #fdd025;
 }
 .ajax-form textarea:focus,
 .ajax-form input:focus,
 .ajax-form textarea:active,
 .ajax-form input:active {	
-	border-bottom:1px solid #6dc234;
+	border-bottom:1px solid #fdd025;
 }
 .blockquote{
-	border-left: 0.4rem solid #6dc234;
+	border-left: 0.4rem solid #fdd025;
 }
 .blockquote-reverse{
-	border-right: 0.4rem solid #6dc234;
+	border-right: 0.4rem solid #fdd025;
 }
 .form-control:focus,
 .form-control:active{
-	border-color: #6dc234;
+	border-color: #fdd025;
 } 
 
 ::selection {
-	background-color: #6dc234;
+	background-color: #fdd025;
 }
 ::-moz-selection {
-	background-color: #6dc234;
+	background-color: #fdd025;
 }
 
 
