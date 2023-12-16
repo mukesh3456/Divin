@@ -506,7 +506,7 @@ mark{
 	letter-spacing: 1px;
 	margin: 0;
 	padding: 0 10px;
-	border-right: 1px solid rgba(255,255,255,.2);
+	/* border-right: 1px solid rgba(255,255,255,.2); */
 	transition: all 250ms linear;
 }
 .social-top:hover{
