@@ -269,7 +269,7 @@ mark{
 	transition: all 200ms linear; 
 }
 .btn.btn-primary {
-	background-color: #242424;
+	background-color: #fdd025;
 }
 .btn:active,
 .btn:focus{

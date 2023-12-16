@@ -50,7 +50,7 @@
 .datepicker.dropdown-menu table tr th:active:hover,
 .booking-button,
 .menu > ul > li a span,
-.btn.btn-primary:hover,
+
 .subtitle.with-line:after,
 .booking-button-big:hover,
 .lang-wrap ul a:hover,
@@ -64,6 +64,9 @@ figure.vimeo:hover a:after, figure.youtube:hover a:after,
 .ajax-form button:hover,
 mark{
 	background-color: #fdd025;
+}
+.btn.btn-primary:hover{
+	background-color: black;
 }
 .range-slider .input-range::-webkit-slider-thumb {
 	background: #fdd025;
