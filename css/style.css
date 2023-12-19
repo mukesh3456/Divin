@@ -101,7 +101,9 @@ mark{
 
 /* #Primary style
 ================================================== */
-
+.restorentpadding{
+	padding: 0 100px !important; 
+}
 .section {
     position: relative;
 	width: 100%;
@@ -3749,6 +3751,9 @@ figure.vimeo a img, figure.youtube a img {
 }
 
 @media (max-width: 767px) {
+	.restorentpadding{
+		padding: 0 20px !important;
+	}
 	.footer .logos-footer img{
 		margin-right: 5;
 		margin-left: 5;
